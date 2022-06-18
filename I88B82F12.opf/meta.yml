@@ -1,0 +1,36 @@
+id: I88B82F12
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:01:24.093244'
+last_modified: '2022-06-19T01:01:24.093258'
+parser: null
+source_metadata:
+  title: Grags pa rgyal mtshans Tree of Realization, block print, colophon excerpt
+  author: rje btsun grags pa rgyal mtshan/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2014-11-12); thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:blo gsal don grub/ (ld)
+  text_witnesses: https://sakyaresearch.org/sources/946
+  bases:
+    e80b:
+      title: Grags pa rgyal mtshans Tree of Realization, block print, colophon excerpt
+      order: 1
+      base_file: e80b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
